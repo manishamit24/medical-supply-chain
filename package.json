@@ -1,0 +1,17 @@
+{
+  "name": "medical-supply-chain",
+  "version": "1.0.0",
+  "description": "Medical Supply Chain Tracker built using Node.js, Express.js, and frontend technologies to track medicine details.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuid": "^14.0.0"
+  }
+}
